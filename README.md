@@ -1,5 +1,13 @@
 # NLP Student Chatbot
 
+#Student Details
+Name: Riya Deshmukh
+Roll No.:BT240019ET
+Semester/Branch: V sem ETC
+
+#Problem Statement
+To develop an NLP based chatbot that helps students get quick & relevant answers to their academic questions.
+
 ## 📌 Introduction
 
 NLP Student Chatbot is a syllabus-based educational chatbot developed to help students learn and revise important concepts of Natural Language Processing (NLP).
