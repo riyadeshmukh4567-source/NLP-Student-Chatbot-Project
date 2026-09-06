@@ -189,3 +189,9 @@ User login and student profiles.
 The NLP Student Chatbot is an interactive application designed to help students get quick answers to their academic and NLP-related questions. It uses Natural Language Processing (NLP) techniques to understand user queries and provide relevant responses.
 The project demonstrates how NLP can be combined with Python and Flask to develop a simple, user-friendly chatbot. It reduces the effort required to search for basic information and provides an easy way for students to interact with the system.
 Overall, this project provides practical knowledge of NLP, Python programming, Flask, web development, and chatbot technology, and it can be further improved by adding advanced NLP models, a larger knowledge base, voice interaction, and AI-based responses.
+
+## 🚀 Live Demo
+
+You can access and test the NLP Student Chatbot using the link below:
+
+👉 [Open NLP Student Chatbot](https://nlp-student-chatbot-project.onrender.com)
